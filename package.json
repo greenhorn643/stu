@@ -1,6 +1,6 @@
 {
-  "name": "stu",
-  "version": "3.2.0",
+  "name": "@alexp643/stu",
+  "version": "4.0.0",
   "description": "Stub dependencies when testing",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -29,13 +29,13 @@
   },
   "homepage": "https://github.com/stayradiated/stu#readme",
   "devDependencies": {
-    "@mishguru/package": "7.8.0",
+    "@mishguru/package": "^9.6.0",
     "@types/caller": "^1.0.0",
-    "@types/sinon": "^7.0.13"
+    "@types/sinon": "^7.5.2"
   },
   "dependencies": {
     "caller": "^1.0.1",
-    "sinon": "^7.4.1",
+    "sinon": "^7.5.0",
     "unwire": "^6.1.0"
   }
 }
