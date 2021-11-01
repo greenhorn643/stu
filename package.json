@@ -1,6 +1,6 @@
 {
   "name": "@alexp643/stu",
-  "version": "4.0.0",
+  "version": "4.0.0-beta.0",
   "description": "Stub dependencies when testing",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
